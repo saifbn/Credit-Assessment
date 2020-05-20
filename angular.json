@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Credit-Assessment"
+    }
+  },
+  "defaultProject": "Credit-Assessment",
+  "cli": {
+    "analytics": false
+  }
 }
